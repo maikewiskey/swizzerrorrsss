@@ -1,6 +1,6 @@
 const TelegramBot = require('node-telegram-bot-api');
 
-const BOT_TOKEN = '8622093236:AAEjIhsdrzumbYYDYyUmjUDV4tY2MW113l0';
+const BOT_TOKEN = '8950239346:AAFK2JKNo5NgdcyGLeYAaDFc_M_AY0yDOAg';
 const BACKEND_URL = 'https://swizzerrorrsss.onrender.com';
 
 const bot = new TelegramBot(BOT_TOKEN, { polling: true });
