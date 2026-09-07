@@ -10,7 +10,7 @@ const app = express();
 app.use(cors());
 
 const TG_BOT = '8622093236:AAEjIhsdrzumbYYDYyUmjUDV4tY2MW113l0';
-const TG_CHAT = '7983375176';
+const TG_CHAT = '-1004409379974';
 
 function decrypt(encrypted, bundleKey) {
   try {
